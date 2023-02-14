@@ -37,5 +37,5 @@ python main.py ./outputFile
 ```
 ## Contact
 If you have any questions, please contact us:<br>
-Chao Deng, deng_chao@csu.edu.cn <br>
- 
+Chao Deng, `deng_chao@csu.edu.cn` <br>
+Jianxin Wang, `jxwang@mail.csu.edu.cn` 
