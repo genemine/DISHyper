@@ -26,10 +26,10 @@ python main.py ./outputFile
  ```
  
 ## Files
-main.py: Examples of DISHyper for cancer gene identification
-models.py: DISHyper model
-train_pred.py: Training and testing functions
-utils.py: Supporting functions
+*main.py*: Examples of DISHyper for cancer gene identification \
+*models.py*: DISHyper model \
+*train_pred.py*: Training and testing functions \
+*utils.py*: Supporting functions
 
 ## Cite
 ```
