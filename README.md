@@ -46,7 +46,7 @@ The input of DISHyper mainly consists of two parts, one of which is the correlat
 
 ### Cite
 ```
-Deng C, Li H, Zhang L, et al. Identifying new cancer genes based on the integration of annotated gene sets via hypergraph neural networks[J]. bioRxiv, 2024: 2024.01. 22.576645.
+Deng, Chao, et al. "Identifying new cancer genes based on the integration of annotated gene sets via hypergraph neural networks." bioRxiv (2024): 2024-01.
 ```
 
 ## Contact
