@@ -3,7 +3,7 @@ DISHyper is a novel method to identify cancer genes based on the annotated gene 
 This repo is for the source code of "Identifying new cancer genes based on the integration of annotated gene sets via hypergraph neural networks". \
 Paper Link: [DISHyper](https://www.biorxiv.org/content/10.1101/2024.01.22.576645v1)
 
-#Setup
+Setup
 ------------------------
 The setup process for DSIHyper requires the following steps:
 ### Download
@@ -52,5 +52,6 @@ Deng C, Li H, Zhang L, et al. Identifying new cancer genes based on the integrat
 ## Contact
 If you have any questions, please contact us:<br>
 Chao Deng, `deng_chao@csu.edu.cn` <be>
+
 Jianxin Wang, `jxwang@mail.csu.edu.cn` 
 
