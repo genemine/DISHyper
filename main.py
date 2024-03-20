@@ -33,4 +33,4 @@ if __name__ == "__main__":
     predRes = evaluationRes.sum(1).sort_values(ascending = False) / 25
     predRes.to_csv(outputPath,sep='\t', header = False)
     print(np.mean(aurocList)) # 0.936
-    print(np.mean(auprcList)) # 0.892
+    print(np.mean(auprcList)) # 0.893
