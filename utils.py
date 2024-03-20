@@ -66,13 +66,13 @@ def processingIncidenceMatrix(geneList):
             if(id=='c2'):
                 q = name.split('_')
                 if('CANCER' in q or 'TUMOR' in q or 'NEOPLASM' in q):
-                    print(name)
+                    #print(name)
                 else:
                     idList.append(z)
             elif(name[:2]=='HP'):
                 q = name.split('_')
                 if('CANCER' in q or 'TUMOR' in q or 'NEOPLASM' in q):
-                    print(name)
+                    #print(name)
                 else:
                     idList.append(z)
             else:
