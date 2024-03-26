@@ -36,7 +36,10 @@ python main.py ./outputFile
  
  ```
  ### Input
-The input of DISHyper mainly consists of two parts, one of which is the correlation matrix of the hypergraph and the other is the labeled genes. We used two annotated gene sets in our example to predict cancer genes, but this can be easily extended to other diseases.
+The input of DISHyper mainly consists of two parts, one of which is the incidence matrix of the hypergraph and the other is the labeled genes. We used two annotated gene sets in our example to predict cancer genes, but this can be easily extended to other diseases.
+
+ ### Output
+The output of DISHyper is the ranking results and prediction scores of all genes.
 
 ### Files
 *main.py*: Examples of DISHyper for cancer gene identification \
