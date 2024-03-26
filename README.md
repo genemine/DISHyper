@@ -5,7 +5,7 @@ Paper Link: [DISHyper](https://www.biorxiv.org/content/10.1101/2024.01.22.576645
 
 Setup
 ------------------------
-The setup process for DSIHyper requires the following steps:
+The setup process for DISHyper requires the following steps:
 ### Download
 Download DISHyper.  The following command clones the current DISHyper repository from GitHub:
 
@@ -23,11 +23,11 @@ GPU: GeForce RTX 2080 11G \
 CPU: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
 
 ### Usage
-(1) After this repository is downloaded and unzipped, go into the folder. 
+(1) After downloading and unzipping this repository, go into the folder. 
 
 (2) We have created examples of DISHyper for predicting pan-cancer genes, namely 'main.py'.
 
-Assuming that you are currently in the downloaded folder, just run the following command and you will be able to built a model and make predictions:
+Assuming that you are currently in the downloaded folder, just run the following command and you will be able to build a model and make predictions:
 
 predicting pan-cancer genes
 ```bash
